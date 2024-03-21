@@ -5,7 +5,7 @@ with open('README.md', 'r') as f:
 
 setuptools.setup(
     name='pl-notification',
-    version='0.0.1',
+    version='0.0.2',
     author='FNNDSC',
     author_email='dev@babyMRI.org',
     description='A ChRIS Plugin for notification through mail / Slack / Element',
