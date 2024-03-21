@@ -23,6 +23,7 @@ setuptools.setup(
         'chris_plugin',
         'pflog',
         'pyyaml',
+        'requests',
     ],
     classifiers=[
         'License :: OSI Approved :: MIT License',
